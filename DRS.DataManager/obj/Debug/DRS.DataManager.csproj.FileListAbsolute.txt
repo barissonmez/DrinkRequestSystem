@@ -1,0 +1,8 @@
+c:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.DataManager\bin\Debug\DRS.DataManager.dll
+c:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.DataManager\bin\Debug\DRS.DataManager.pdb
+c:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.DataManager\bin\Debug\DRS.Entity.dll
+c:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.DataManager\bin\Debug\FluentData.dll
+c:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.DataManager\bin\Debug\DRS.Entity.pdb
+c:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.DataManager\obj\Debug\DRS.DataManager.csprojResolveAssemblyReference.cache
+c:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.DataManager\obj\Debug\DRS.DataManager.dll
+c:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.DataManager\obj\Debug\DRS.DataManager.pdb

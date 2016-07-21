@@ -1,0 +1,5 @@
+c:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.Entity\bin\Debug\DRS.Entity.dll
+c:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.Entity\bin\Debug\DRS.Entity.pdb
+c:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.Entity\obj\Debug\DRS.Entity.dll
+c:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.Entity\obj\Debug\DRS.Entity.pdb
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.Entity\obj\Debug\DRS.Entity.csprojResolveAssemblyReference.cache

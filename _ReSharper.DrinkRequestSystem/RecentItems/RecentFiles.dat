@@ -1,0 +1,56 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="88BECFFA-AE62-4BEF-8F59-6F0D5747BAA0/f:App.config" caret="251" fromTop="6" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Views/f:Web.config" caret="0" fromTop="0" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/f:Web.config" caret="1127" fromTop="15" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Views/d:Home/f:Index.cshtml" caret="107" fromTop="6" />
+    <File id="322B18D4-EE04-432A-8A76-C36D492A2489/f:Drink.cs" caret="299" fromTop="14" />
+    <File id="00D472FC-865F-444B-B1F5-10E8994B57A5/f:DrinkDTO.cs" caret="260" fromTop="13" />
+    <File id="88BECFFA-AE62-4BEF-8F59-6F0D5747BAA0/f:DataManagerTests.cs" caret="1127" fromTop="19" />
+    <File id="88BECFFA-AE62-4BEF-8F59-6F0D5747BAA0/f:ServiceManagerTests.cs" caret="745" fromTop="9" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Models/f:DrinkListResponseModel.cs" caret="185" fromTop="9" />
+    <File id="00D472FC-865F-444B-B1F5-10E8994B57A5/f:Enums.cs" caret="271" fromTop="14" />
+    <File id="322B18D4-EE04-432A-8A76-C36D492A2489/f:Enums.cs" caret="143" fromTop="6" />
+    <File id="322B18D4-EE04-432A-8A76-C36D492A2489/f:User.cs" caret="0" fromTop="0" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Assets/d:Scripts/f:app.js" caret="216" fromTop="9" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Controllers/f:DrinkController.cs" caret="835" fromTop="23" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Controllers/f:HomeController.cs" caret="188" fromTop="8" />
+    <File id="00D472FC-865F-444B-B1F5-10E8994B57A5/f:UserDTO.cs" caret="215" fromTop="11" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Models/f:OrderResponseModel.cs" caret="224" fromTop="10" />
+    <File id="00D472FC-865F-444B-B1F5-10E8994B57A5/f:OrderDTO.cs" caret="454" fromTop="20" />
+    <File id="322B18D4-EE04-432A-8A76-C36D492A2489/f:Order.cs" caret="361" fromTop="17" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Assets/d:Modules/d:home/f:controller.js" caret="1054" fromTop="21" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Assets/d:Modules/d:home/f:services.js" caret="775" fromTop="17" />
+    <File id="4448D8DB-4796-4D96-A5FA-CB2DF4CC40A9/f:ServiceManager.cs" caret="2057" fromTop="15" />
+    <File id="C56CFF90-399F-46B8-9C29-9380F73B0800/f:DataManager.cs" caret="2027" fromTop="18" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Controllers/f:OrderController.cs" caret="723" fromTop="19" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Views/d:Shared/f:_Layout.cshtml" caret="625" fromTop="16" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Assets/d:Modules/d:home/f:home.view.html" caret="1724" fromTop="16" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="88BECFFA-AE62-4BEF-8F59-6F0D5747BAA0/f:App.config" caret="186" fromTop="5" />
+    <File id="322B18D4-EE04-432A-8A76-C36D492A2489/f:User.cs" caret="343" fromTop="16" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/f:Web.config" caret="1203" fromTop="20" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Views/d:Home/f:Index.cshtml" caret="105" fromTop="5" />
+    <File id="322B18D4-EE04-432A-8A76-C36D492A2489/f:Drink.cs" caret="285" fromTop="14" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Assets/d:Scripts/f:app.js" caret="176" fromTop="8" />
+    <File id="88BECFFA-AE62-4BEF-8F59-6F0D5747BAA0/f:DataManagerTests.cs" caret="1066" fromTop="20" />
+    <File id="00D472FC-865F-444B-B1F5-10E8994B57A5/f:DrinkDTO.cs" caret="283" fromTop="14" />
+    <File id="88BECFFA-AE62-4BEF-8F59-6F0D5747BAA0/f:ServiceManagerTests.cs" caret="1152" fromTop="25" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Models/f:DrinkListResponseModel.cs" caret="330" fromTop="13" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Controllers/f:HomeController.cs" caret="355" fromTop="12" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Controllers/f:DrinkController.cs" caret="494" fromTop="14" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Views/d:Shared/f:_Layout.cshtml" caret="565" fromTop="13" />
+    <File id="00D472FC-865F-444B-B1F5-10E8994B57A5/f:Enums.cs" caret="361" fromTop="19" />
+    <File id="322B18D4-EE04-432A-8A76-C36D492A2489/f:Enums.cs" caret="143" fromTop="6" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Models/f:OrderResponseModel.cs" caret="224" fromTop="10" />
+    <File id="00D472FC-865F-444B-B1F5-10E8994B57A5/f:OrderDTO.cs" caret="489" fromTop="22" />
+    <File id="322B18D4-EE04-432A-8A76-C36D492A2489/f:Order.cs" caret="387" fromTop="18" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Assets/d:Modules/d:home/f:controller.js" caret="947" fromTop="18" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Assets/d:Modules/d:home/f:services.js" caret="922" fromTop="20" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Controllers/f:OrderController.cs" caret="716" fromTop="18" />
+    <File id="4448D8DB-4796-4D96-A5FA-CB2DF4CC40A9/f:ServiceManager.cs" caret="2157" fromTop="22" />
+    <File id="C56CFF90-399F-46B8-9C29-9380F73B0800/f:DataManager.cs" caret="1804" fromTop="5" />
+    <File id="14D49C28-705A-40A8-A53C-02B6F41A25C7/d:Assets/d:Modules/d:home/f:home.view.html" caret="2236" fromTop="30" />
+  </RecentEdits>
+</RecentFiles>

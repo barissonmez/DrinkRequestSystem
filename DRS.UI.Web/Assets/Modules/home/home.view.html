@@ -1,0 +1,74 @@
+﻿<!-- Title -->
+<div class="row">
+    <div class="col-lg-12">
+        <h3>Soğuk İçecekler</h3>
+    </div>
+</div>
+
+<!-- Page Features -->
+<div class="row text-center">
+    <div class="col-md-2 col-sm-2 hero-feature" ng-repeat="drink in vm.allDrinks.ColdDrinks">
+        <div class="thumbnail">
+            <div class="caption">
+                <h5>{{drink.Name}}</h5>
+                <p>
+                    <a href="javascript:;" class="btn btn-primary" ng-click="vm.createOrder(drink.Id)">Sipariş ver!</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<hr>
+<!-- Title -->
+<div class="row">
+    <div class="col-lg-12">
+        <h3>Sıcak İçecekler</h3>
+    </div>
+</div>
+
+<!-- Page Features -->
+<div class="row text-center">
+    <div class="col-md-2 col-sm-2 hero-feature" ng-repeat="drink in vm.allDrinks.HotDrinks">
+        <div class="thumbnail">
+            <div class="caption">
+                <h5>{{drink.Name}}</h5>
+                <p>
+                    <a href="javascript:;" class="btn btn-danger" ng-click="vm.createOrder(drink.Id)">Sipariş ver!</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<hr>
+
+
+<div class="row" ng-show="vm.todaysOrders.length > 0">
+    <!-- Title -->
+    <div class="row">
+        <div class="col-lg-12">
+            <h3>Siparişler</h3>
+        </div>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Talep Eden</th>
+                <th>İstenen Sipariş</th>
+                <th>Sipariş Saati</th>
+                <th>Siparişin Durumu</th>
+                <th>Geçen Süre</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="order in vm.todaysOrders">
+                <td>{{order.UserFullname}}</td>
+                <td>1 Adet {{order.DrinkName}}</td>
+                <td>{{order.CreateDate}}</td>
+                <td>{{order.State}}</td>
+                <td>{{order.TimePassed}} Dakika</td>
+                <td><a href="javascript:;" class="btn btn-danger" ng-click="vm.deleteOrder(order.Id)">Sil</a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>

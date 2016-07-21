@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="14D49C28-705A-40A8-A53C-02B6F41A25C7" ModuleId="DRS.UI.Web" />
+  <Module PersistentId="C56CFF90-399F-46B8-9C29-9380F73B0800" ModuleId="DRS.DataManager" />
+  <Module PersistentId="322B18D4-EE04-432A-8A76-C36D492A2489" ModuleId="DRS.Entity" />
+  <Module PersistentId="88BECFFA-AE62-4BEF-8F59-6F0D5747BAA0" ModuleId="DRS.Test" />
+  <Module PersistentId="4448D8DB-4796-4D96-A5FA-CB2DF4CC40A9" ModuleId="DRS.ServiceManager" />
+  <Module PersistentId="00D472FC-865F-444B-B1F5-10E8994B57A5" ModuleId="DRS.DTO" />
+</Modules>

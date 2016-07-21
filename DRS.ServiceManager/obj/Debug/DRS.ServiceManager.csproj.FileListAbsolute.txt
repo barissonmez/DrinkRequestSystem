@@ -1,0 +1,12 @@
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.ServiceManager\bin\Debug\DRS.ServiceManager.dll
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.ServiceManager\bin\Debug\DRS.ServiceManager.pdb
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.ServiceManager\bin\Debug\DRS.DataManager.dll
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.ServiceManager\bin\Debug\DRS.DTO.dll
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.ServiceManager\bin\Debug\DRS.Entity.dll
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.ServiceManager\bin\Debug\FluentData.dll
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.ServiceManager\bin\Debug\DRS.DataManager.pdb
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.ServiceManager\bin\Debug\DRS.DTO.pdb
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.ServiceManager\bin\Debug\DRS.Entity.pdb
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.ServiceManager\obj\Debug\DRS.ServiceManager.csprojResolveAssemblyReference.cache
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.ServiceManager\obj\Debug\DRS.ServiceManager.dll
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.ServiceManager\obj\Debug\DRS.ServiceManager.pdb

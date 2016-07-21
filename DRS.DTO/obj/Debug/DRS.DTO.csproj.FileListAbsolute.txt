@@ -1,0 +1,5 @@
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.DTO\bin\Debug\DRS.DTO.dll
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.DTO\bin\Debug\DRS.DTO.pdb
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.DTO\obj\Debug\DRS.DTO.dll
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.DTO\obj\Debug\DRS.DTO.pdb
+C:\Users\b.sonmez\Documents\Visual Studio 2012\Projects\DrinkRequestSystem\DRS.DTO\obj\Debug\DRS.DTO.csprojResolveAssemblyReference.cache
